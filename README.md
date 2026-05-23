@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="github banner.png" width="100%" />
 
 <!--
 **Tanish-kumar-Agarwal/Tanish-kumar-Agarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
